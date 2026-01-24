@@ -1,5 +1,5 @@
 # Multilingual Abusive Language Detection System
-
+https://medium.com/@karandeepsaluja73/multilingual-abusive-language-detection-system-f6356cfde7d9
 
 This repository contains a production-ready system for detecting abusive language in Hindi and Punjabi audio files. The system employs a concept-based multilingual approach, enabling seamless detection across languages by focusing on shared abusive concepts rather than direct translations. It integrates speech-to-text transcription with advanced text classification, optimized for noisy environments like audio recordings with background interference.
 
